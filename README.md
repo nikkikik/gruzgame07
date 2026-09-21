@@ -1,4 +1,4 @@
-# Gruz Game 07 — Croco Tank Tap. 1 
+# Gruz Game 07 — Croco Tank Tap. 1  2
 
 Base App mini app for **donlemon36999-pixel** (Next.js + wagmi + Farcaster Mini App SDK).
 
