@@ -4,6 +4,8 @@
 
 1 2 3 4 5 6 7 8 9 10
 
+1
+
 Base App mini app for **donlemon36999-pixel** (Next.js + wagmi + Farcaster Mini App SDK).
 
 ## Config (hardcoded, no Vercel env)
